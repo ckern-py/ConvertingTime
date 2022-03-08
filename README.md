@@ -13,7 +13,7 @@ Then you can clone the repo in Visual Studio and open the solution file.
 ## Use
 To use the project you'll first need to load it up in Visual Studio. After loading you can go ahead and run it. 
 Once the project is loaded and running you'll be presented with a GUI, as seen below. 
-<br> ![GUIPic](/Images/ConvertingTime_GUI.png) <br>In this GUI you'll be able to enter a number, select the origin units, 
+<br> ![GUIPic](/Images/ConvertingTime_GUI.png?raw=true) <br>In this GUI you'll be able to enter a number, select the origin units, 
 select the units you would like the answer to be converted to, and then select Calculate or Advanced Calculate. Advanced 
 Calculate shows the answer formatted into time units, while Calculate just shows the answer as a decimal. 
 ## Example
@@ -21,10 +21,10 @@ Below is an example on the different outputs that the application can do. For th
 the number we want to convert. We will also select Origin Units as Seconds and Destination Units as Years.
 
 When we hit Calculate we see that the number of years is displayed as a decimal<br>
-![CalcPic](/Images/ConvertingTime_Calc.png)
+![CalcPic](/Images/ConvertingTime_Calc.png?raw=true)
 
 When we hit Advanced Calculate we see that the answer is broken down by years, weeks, days, hours, minutes, and seconds. <br>
-![AdvCalcPic](/Images/ConvertingTime_AdvCalc.png)
+![AdvCalcPic](/Images/ConvertingTime_AdvCalc.png?raw=true)
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
